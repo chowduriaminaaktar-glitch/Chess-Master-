@@ -1,0 +1,6 @@
+{
+  "name": "Chess Dual",
+  "description": "Realistic two-player pass-and-play chess on a single device with dual-view rotation, smart move assistance, customizable clocks, and match history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
